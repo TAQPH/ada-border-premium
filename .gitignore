@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.vscode/
+
+# national INSEE files: large and not needed, re-created by code/01_get_data.py
+data/raw/insee/RP2021_mobpro.parquet
+data/raw/insee/filosofi_2021_communes.zip
+data/raw/insee/filosofi_2021/
+data/raw/insee/logement_2021_communes.zip
+
+# course documents, not part of the project
+project-requirements.pdf
+project-shipping-guidelines.pdf
+Proposal_ADA_2026_Menetrier_Victor.pdf

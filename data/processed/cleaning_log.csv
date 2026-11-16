@@ -1,0 +1,10 @@
+step,rows,sales,sales_removed
+Raw data,357526,128986,0
+Drop exact duplicate rows,342208,128986,0
+Keep ordinary sales and off-plan sales,336620,126922,2064
+One row per building unit (land-only rows removed),205635,97139,29783
+"Keep sales of exactly one home, no shop",79300,79300,17839
+Drop missing price,79197,79197,103
+Drop missing coordinates,77926,77926,1271
+Keep surface between 9 and 400 m2,77830,77830,96
+"Keep price between 1,000 and 20,000 euros/m2",76659,76659,1171
